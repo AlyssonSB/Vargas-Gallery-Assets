@@ -1,11 +1,279 @@
 {
     "arts": [
-        {
-            "id": "art_001",
-            "title": "Insomnie Web",
-            "description": "A produção da obra tem a intenção de expressar o significado da frase de Dave Eggers: 'a rede não dorme', retratando como as redes sociais permanecem incessantemente ativas, mesmo nas altas horas da noite, com a teia simbolizando que, uma vez preso nesse vício, a libertação torna-se um desafio árduo.",
-            "link": "youtube.com"
-        }
-
-            ]
+  {
+    "id": "notice_001",
+    "title": "O Plano Cohen era uma fraude",
+    "thumbTitle": "A fake news que mudou a história do Brasil.",
+    "date": "30 de setembro de 1937",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Manipulação Política",
+    "description": "Divulgado como um suposto plano comunista para tomar o poder no Brasil, o Plano Cohen foi utilizado pelo governo para justificar a decretação do estado de guerra e, posteriormente, o golpe que instaurou o Estado Novo. Após o fim da ditadura, comprovou-se que o documento era fictício e havia sido elaborado como exercício interno por Olímpio Mourão Filho.",
+    "sourceTitle": "CPDOC/FGV — Plano Cohen",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45/Politica/PlanoCohen"
+  },
+  {
+    "id": "notice_002",
+    "title": "Getúlio Vargas fecha o Congresso Nacional",
+    "thumbTitle": "Reunião cancelada... por tempo indeterminado.",
+    "date": "10 de novembro de 1937",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Golpe de Estado",
+    "description": "No mesmo dia em que instaurou o Estado Novo, Getúlio Vargas fechou o Congresso Nacional, suspendeu a atividade legislativa e concentrou os poderes do Estado em suas mãos. O país passou a ser governado por decretos-leis, eliminando um dos principais pilares da democracia brasileira.",
+    "sourceTitle": "CPDOC/FGV — Estado Novo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_003",
+    "title": "A Constituição de 1937 é imposta sem consulta popular",
+    "thumbTitle": "Novas regras. Ninguém foi perguntado.",
+    "date": "10 de novembro de 1937",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Política",
+    "description": "Conhecida como 'Polaca', a Constituição de 1937 entrou em vigor sem aprovação popular ou da Assembleia Constituinte. Inspirada em constituições autoritárias europeias, ampliou os poderes presidenciais e restringiu diversas garantias individuais.",
+    "sourceTitle": "CPDOC/FGV — Constituição de 1937",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_004",
+    "title": "Todos os partidos políticos são extintos",
+    "thumbTitle": "O botão \"oposição\" foi desinstalado.",
+    "date": "2 de dezembro de 1937",
+    "location": "Brasil",
+    "category": "Política",
+    "description": "Pouco após instaurar o Estado Novo, Vargas decretou a extinção de todos os partidos políticos brasileiros. A medida eliminou qualquer forma legal de oposição organizada ao governo e consolidou o regime de partido único informal.",
+    "sourceTitle": "CPDOC/FGV — Estado Novo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_005",
+    "title": "As eleições presidenciais de 1938 são canceladas",
+    "thumbTitle": "Seu voto foi adiado... indefinidamente.",
+    "date": "Novembro de 1937",
+    "location": "Brasil",
+    "category": "Democracia",
+    "description": "As eleições presidenciais previstas para janeiro de 1938 foram canceladas após o golpe do Estado Novo. Com isso, Getúlio Vargas permaneceu no poder sem a realização de eleições nacionais durante todo o período da ditadura.",
+    "sourceTitle": "CPDOC/FGV — Estado Novo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_006",
+    "title": "Departamento de Imprensa e Propaganda passa a controlar a informação",
+    "thumbTitle": "Antes de postar, consulte o governo.",
+    "date": "27 de dezembro de 1939",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Censura",
+    "description": "O Departamento de Imprensa e Propaganda (DIP) foi criado para censurar jornais, revistas, livros, peças teatrais, filmes e programas de rádio. Também produzia propaganda oficial para fortalecer a imagem de Vargas e divulgar os ideais do Estado Novo.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_007",
+    "title": "O Estado de S. Paulo é ocupado pelo governo",
+    "thumbTitle": "Nem todo jornal podia dar a notícia.",
+    "date": "25 de março de 1940",
+    "location": "São Paulo, SP",
+    "category": "Liberdade de Imprensa",
+    "description": "Após publicar críticas ao regime, o jornal O Estado de S. Paulo sofreu intervenção federal. A direção foi afastada e o periódico passou a funcionar sob controle do governo até a queda do Estado Novo em 1945.",
+    "sourceTitle": "Acervo Estadão",
+    "sourceUrl": "https://acervo.estadao.com.br/"
+  },
+  {
+    "id": "notice_008",
+    "title": "A censura prévia chega às redações brasileiras",
+    "thumbTitle": "Spoiler: essa matéria não foi aprovada.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Censura",
+    "description": "Diversos jornais passaram a enviar suas reportagens para análise dos censores antes da publicação. Notícias consideradas inconvenientes eram alteradas, removidas ou substituídas por conteúdos aprovados pelo Departamento de Imprensa e Propaganda.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_009",
+    "title": "Graciliano Ramos é preso sem acusação formal",
+    "thumbTitle": "Escrever também podia virar crime.",
+    "date": "3 de março de 1936",
+    "location": "Maceió, Alagoas",
+    "category": "Repressão Política",
+    "description": "O escritor Graciliano Ramos foi preso durante a repressão política da década de 1930, permanecendo meses encarcerado sem processo ou condenação. Sua experiência foi registrada posteriormente na obra 'Memórias do Cárcere', considerada um dos relatos mais importantes sobre a repressão política no Brasil.",
+    "sourceTitle": "CPDOC/FGV — Graciliano Ramos",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1"
+  },
+  {
+    "id": "notice_010",
+    "title": "Livros passam a ser proibidos pela censura do Estado Novo",
+    "thumbTitle": "Algumas histórias nunca chegaram às prateleiras.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Censura Cultural",
+    "description": "Obras literárias consideradas críticas ao governo ou contrárias aos ideais do Estado Novo passaram a ser censuradas pelo DIP. Muitos autores recorreram à autocensura para conseguir publicar seus livros durante o período.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_011",
+    "title": "Peças de teatro passam por censura obrigatória",
+    "thumbTitle": "O roteiro precisava de autorização.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Censura Cultural",
+    "description": "Todas as peças de teatro passaram a ser analisadas pelo Departamento de Imprensa e Propaganda (DIP) antes de serem apresentadas ao público. Obras que abordassem críticas ao governo, ideias políticas consideradas perigosas ou temas julgados inadequados eram proibidas ou tinham trechos alterados.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_012",
+    "title": "Filmes nacionais e estrangeiros sofrem cortes da censura",
+    "thumbTitle": "Cena removida por motivos... políticos.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Cinema",
+    "description": "A censura do Estado Novo passou a controlar a exibição de filmes em todo o país. Produções consideradas ofensivas à moral, críticas ao governo ou incompatíveis com os ideais nacionalistas eram editadas ou proibidas.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_013",
+    "title": "O rádio torna-se a principal ferramenta de propaganda do governo",
+    "thumbTitle": "O algoritmo da época era o rádio.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Propaganda",
+    "description": "Durante o Estado Novo, o rádio foi transformado no principal meio de comunicação entre o governo e a população. Discursos de Vargas, campanhas patrióticas e programas produzidos pelo DIP passaram a ocupar grande parte da programação nacional.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_014",
+    "title": "A Hora do Brasil torna-se transmissão obrigatória",
+    "thumbTitle": "Você podia trocar de estação... mas não fugir dela.",
+    "date": "1938",
+    "location": "Brasil",
+    "category": "Rádio",
+    "description": "As emissoras de rádio passaram a ser obrigadas a transmitir diariamente o programa oficial do governo, chamado 'A Hora do Brasil', utilizado para divulgar ações do Estado Novo e fortalecer a imagem do presidente Getúlio Vargas.",
+    "sourceTitle": "Agência Brasil — A Voz do Brasil",
+    "sourceUrl": "https://agenciabrasil.ebc.com.br/geral/noticia/2022-08/voz-do-brasil-completa-87-anos"
+  },
+  {
+    "id": "notice_015",
+    "title": "O governo promove o culto à imagem de Getúlio Vargas",
+    "thumbTitle": "Influencer sem internet.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Propaganda",
+    "description": "Cartazes, revistas, filmes, fotografias, discursos e programas de rádio passaram a retratar Getúlio Vargas como o 'Pai dos Pobres', reforçando sua imagem como líder próximo da população e responsável pelo progresso nacional.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_016",
+    "title": "Comunistas continuam sendo perseguidos pelo Estado Novo",
+    "thumbTitle": "Ser suspeito já era suficiente.",
+    "date": "1937",
+    "location": "Brasil",
+    "category": "Repressão Política",
+    "description": "Após utilizar a ameaça comunista como justificativa para o golpe de 1937, o governo intensificou a perseguição a integrantes e simpatizantes do Partido Comunista Brasileiro, promovendo prisões, vigilância e restrições às atividades políticas.",
+    "sourceTitle": "CPDOC/FGV — Estado Novo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_017",
+    "title": "Integralistas também passam a ser reprimidos",
+    "thumbTitle": "Ontem aliados, hoje inimigos.",
+    "date": "11 de maio de 1938",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Repressão Política",
+    "description": "Mesmo tendo apoiado Vargas anteriormente, membros da Ação Integralista Brasileira foram perseguidos após tentarem invadir o Palácio Guanabara em 1938. O episódio marcou o rompimento definitivo entre o governo e o movimento integralista.",
+    "sourceTitle": "CPDOC/FGV — Intentona Integralista",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_018",
+    "title": "Os sindicatos passam a funcionar sob controle do governo",
+    "thumbTitle": "Nem toda voz podia falar por si.",
+    "date": "1939",
+    "location": "Brasil",
+    "category": "Direitos Trabalhistas",
+    "description": "Embora tenha criado importantes leis trabalhistas, o Estado Novo retirou a autonomia dos sindicatos, que passaram a depender do reconhecimento oficial do governo e sofrer forte controle político.",
+    "sourceTitle": "CPDOC/FGV — Trabalhismo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1"
+  },
+  {
+    "id": "notice_019",
+    "title": "Interventores substituem governadores eleitos",
+    "thumbTitle": "Escolhidos diretamente pelo governo.",
+    "date": "1937",
+    "location": "Brasil",
+    "category": "Política",
+    "description": "Com a implantação do Estado Novo, os estados passaram a ser administrados por interventores nomeados diretamente por Getúlio Vargas, reduzindo significativamente a autonomia estadual e centralizando o poder em Brasília (então Rio de Janeiro, capital federal).",
+    "sourceTitle": "CPDOC/FGV — Estado Novo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_020",
+    "title": "A propaganda oficial domina os cinemas brasileiros",
+    "thumbTitle": "O filme começava com propaganda.",
+    "date": "1940",
+    "location": "Brasil",
+    "category": "Cinema",
+    "description": "Antes das sessões de cinema, era comum a exibição de cinejornais produzidos pelo governo. Essas produções apresentavam obras públicas, eventos oficiais e discursos de Vargas, funcionando como instrumento de propaganda política para milhões de brasileiros.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  },
+  {
+    "id": "notice_021",
+    "title": "Olga Benário é deportada para a Alemanha Nazista",
+    "thumbTitle": "Uma decisão brasileira com consequências fatais.",
+    "date": "23 de setembro de 1936",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Direitos Humanos",
+    "description": "Mesmo grávida e sob forte pressão internacional, Olga Benário Prestes, militante comunista de origem alemã e esposa de Luís Carlos Prestes, foi entregue pelo governo brasileiro à Alemanha Nazista. Presa pelo regime de Hitler, deu à luz na prisão e, anos depois, foi assassinada no campo de extermínio de Bernburg. O episódio tornou-se um dos casos mais conhecidos de violação dos direitos humanos durante a Era Vargas.",
+    "sourceTitle": "CPDOC/FGV — Olga Benário Prestes",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/FatosImagens/OlgaBenario"
+  },
+  {
+    "id": "notice_022",
+    "title": "Tribunal de Segurança Nacional amplia a repressão política",
+    "thumbTitle": "Nem toda Justiça era imparcial.",
+    "date": "1936",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Justiça",
+    "description": "Criado para julgar crimes contra a segurança nacional, o Tribunal de Segurança Nacional tornou-se um importante instrumento de repressão política durante o Estado Novo. Muitos opositores do governo foram julgados por esse órgão em processos marcados por restrições às garantias individuais e ampla atuação do Estado contra adversários políticos.",
+    "sourceTitle": "FGV CPDOC — Tribunal de Segurança Nacional",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1"
+  },
+  {
+    "id": "notice_023",
+    "title": "DOPS intensifica a vigilância sobre opositores do regime",
+    "thumbTitle": "Seu histórico já era monitorado antes da internet.",
+    "date": "1937",
+    "location": "Brasil",
+    "category": "Repressão Política",
+    "description": "O Departamento de Ordem Política e Social (DOPS) ampliou sua atuação durante o Estado Novo, monitorando sindicatos, estudantes, intelectuais, jornalistas e qualquer pessoa considerada uma ameaça ao governo. Seus arquivos revelam milhares de investigações, prisões e fichamentos realizados ao longo do período.",
+    "sourceTitle": "Arquivo Nacional — Acervo DOPS",
+    "sourceUrl": "https://www.gov.br/arquivonacional/pt-br"
+  },
+  {
+    "id": "notice_024",
+    "title": "O Estado Novo chega ao fim após pressão política e militar",
+    "thumbTitle": "Fim de uma era. Começo de outra.",
+    "date": "29 de outubro de 1945",
+    "location": "Rio de Janeiro, Distrito Federal",
+    "category": "Fim da Ditadura",
+    "description": "Após quase oito anos de governo ditatorial, Getúlio Vargas foi deposto por militares. O fim do Estado Novo abriu caminho para a redemocratização do país, a convocação de novas eleições e o restabelecimento das instituições democráticas brasileiras.",
+    "sourceTitle": "CPDOC/FGV — Fim do Estado Novo",
+    "sourceUrl": "https://cpdoc.fgv.br/producao/dossies/AEraVargas1/anos37-45"
+  },
+  {
+    "id": "notice_025",
+    "title": "Documentos revelam a extensão da censura do Estado Novo",
+    "thumbTitle": "A verdade demorou, mas apareceu.",
+    "date": "Após 1945",
+    "location": "Brasil",
+    "category": "Memória Histórica",
+    "description": "Com o fim do Estado Novo, documentos oficiais, arquivos do DIP, jornais e pesquisas históricas passaram a revelar como funcionava o sistema de censura e propaganda do regime. O acesso a esses registros permitiu compreender a dimensão do controle exercido sobre a imprensa, a cultura e a sociedade brasileira durante a ditadura Vargas.",
+    "sourceTitle": "CPDOC/FGV — Departamento de Imprensa e Propaganda",
+    "sourceUrl": "https://expo-virtual-cpdoc.fgv.br/departamento-de-imprensa-e-propaganda-dip"
+  }
+]
 }
